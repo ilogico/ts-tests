@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "strict": true,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "types": [
+            "node"
+        ],
+        "jsx": "react",
+        "outDir": "bin",
+        "sourceMap": true
+    },
+    "include": [
+        "src"
+    ]
+}
